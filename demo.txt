@@ -1,0 +1,7 @@
+git status
+git init
+git add <file name>
+git commit -m <This is your commit>
+git status 
+git pull
+git push 
